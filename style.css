@@ -28,6 +28,7 @@ body {
 }
 
 .draggable-list li {
+  background-color: #fff;
   display: flex;
   flex: 1;
 }
